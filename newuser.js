@@ -26,3 +26,8 @@ function user_sumbit(){
         alert('값 : ' + username_value + '이 저장되었습니다.');
     }
 }
+
+/*
+추가적인 기능 구현 내용은 깃허브 참고
+https://github.com/chh4031/CRUD_Project
+*/
