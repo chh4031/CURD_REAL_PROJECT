@@ -1,0 +1,47 @@
+body {
+    background-color: gray;
+}
+
+.head_main{
+    text-align: center;
+    background-color: white;
+    margin-top: -30px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.admin_main{
+    margin: auto;
+    width: 1200px;
+
+}
+
+.admin_form_1{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border: 1px solid;
+    overflow: scroll;
+}
+
+.admin_form_2{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border: 1px solid;
+
+    margin-left: 37.5%;
+    margin-top: -502px;
+    overflow: scroll;
+
+}
+
+.admin_form_3{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border: 1px solid;
+    
+    margin-left: 75%;
+    margin-top: -502px;
+}
